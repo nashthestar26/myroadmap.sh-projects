@@ -1,1 +1,10 @@
-# myroadmap.sh-projects
+# My Curriculum Vitae 
+
+# https://roadmap.sh/projects/single-page-cv 
+
+## Result of my Project 
+<img width="994" height="888" alt="Screenshot 2026-04-21 215248" src="https://github.com/user-attachments/assets/4f909822-2f1e-41b9-ae8c-9da087b881f4" /> 
+
+# This the free resources i use while learning. 
+1. [freeCodeCamp](https://www.freecodecamp.org/)
+2. [W3schools Semantic Element](https://www.w3schools.com/html/html5_semantic_elements.asp)
