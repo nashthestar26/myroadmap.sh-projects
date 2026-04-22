@@ -13,6 +13,7 @@
 # This the free resources i use while learning. 
 1. [freeCodeCamp](https://www.freecodecamp.org/)
 2. [W3schools Semantic Element](https://www.w3schools.com/html/html5_semantic_elements.asp)
+3. [W3schools Layout Elements](https://www.w3schools.com/html/html_layout.asp)
 
 
 
