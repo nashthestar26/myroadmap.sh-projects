@@ -3,7 +3,7 @@
 ### https://roadmap.sh/projects/single-page-cv 
 
 ## Project 1 - Curriculum Vitea
-<img width="994" height="888" alt="Screenshot 2026-04-21 215248" src="https://github.com/user-attachments/assets/1016b462-4e5d-4efa-af8c-f9cb2c495769" />
+
 
 ### https://roadmap.sh/projects/basic-html-website
 
